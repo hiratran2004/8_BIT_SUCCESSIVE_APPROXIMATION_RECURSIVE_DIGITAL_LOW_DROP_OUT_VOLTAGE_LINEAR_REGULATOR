@@ -8,6 +8,6 @@
 
 **Technology/Process:** 45nm
 
-**Project Duration:** September, 2025 to October, 2025
+**Project Duration:** October, 2025 to Present
 
-**Date (lastest upadated):** 28th November 2025  
+**Date (lastest upadated):** 28th November, 2025  
